@@ -1,0 +1,1 @@
+RewriteRule ^/([ajax,midlet,wap,touch]+)/gift/([0-9]+)_[a-zA-Z0-9]+/([0-9]+)/([0-9]+) /gift.php?view=$1&gift_id=$2&sender_id=$3&receiver_id=$4 [L,QSA]
