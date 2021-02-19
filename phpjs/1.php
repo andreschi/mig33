@@ -1,6 +1,6 @@
 <?php
-$results = array( array("username" => "ali", "hair_color" => "brown", "height" => 1.2),
-array("username" => "marc", "hair_color" => "blue", "height" =>
+$results = array( array("username" => "get", "hair_color" => "brown", "height" => 1.2),
+array("username" => "ajo", "hair_color" => "blue", "height" =>
 1.4), array("username" => "joe", "hair_color" => "brown", "height" => 1.7), array("username" => "zehua", "hair_color" => "black", "height" => 1.8) );
 
 function mini_json($results) {
